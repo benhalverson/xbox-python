@@ -1,2 +1,5 @@
+colorzero==2.0
+gpiozero==2.0.1
+lgpio==0.2.2.0
 pygame==2.5.2
 RPi.GPIO==0.7.1
